@@ -1,0 +1,12 @@
+.Item-card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 94%;    
+}
+
+.span {
+    width: 200px;
+    text-align: left;
+    margin: 10px 0;
+}

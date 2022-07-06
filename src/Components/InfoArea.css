@@ -1,0 +1,31 @@
+.headings {
+    width: 94%;
+}
+
+.item-card >span {
+    width: 200px;
+    text-align: left;
+    margin: 10px 0;
+}
+
+.items {
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    width: 95%;
+    margin: 20px auto;
+    padding-bottom: 20px;
+}
+
+.items-list {
+    display: flex;
+    flex-direction: row;
+    width: 94%;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.span-short {
+    width: 30px;
+}

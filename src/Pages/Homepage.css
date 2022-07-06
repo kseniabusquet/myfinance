@@ -1,0 +1,9 @@
+.info-area {
+    display: flex;
+    flex-direction: row;
+    width: 93%;
+    margin: 0 auto;
+    justify-content:space-evenly;
+    align-items: center;
+    margin: 30px;
+}

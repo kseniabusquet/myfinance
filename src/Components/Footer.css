@@ -1,0 +1,21 @@
+.made-with-love {
+    width: 100%;
+    padding: 10px 0px;
+    text-align: center;
+    border-top: 2px solid rgba(0, 0, 0, 0.25);
+}
+
+.wrapper-footer{
+    position:absolute;
+    display: flex;
+    align-items: flex-end;
+    padding: 10px 10px 0px 0px;
+    bottom: 0;
+    width: 99%;
+    height: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: rgba(0, 0, 0, 0.8);
+    flex-shrink: 0;
+}
+
